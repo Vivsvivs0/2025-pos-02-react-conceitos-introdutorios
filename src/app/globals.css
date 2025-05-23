@@ -24,3 +24,6 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+.titulo {
+	color: rgb(255, 154, 197);
+}
